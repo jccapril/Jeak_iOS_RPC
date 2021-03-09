@@ -1,3 +1,3 @@
 # RPC
 
-The auto generated swift files for bilu_proto.
+The auto generated swift files for jeak_proto.
